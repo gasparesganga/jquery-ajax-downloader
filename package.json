@@ -1,0 +1,26 @@
+{
+    "name": "gasparesganga-jquery-ajax-downloader",
+    "version": "1.1.0",
+    "description": "A jQuery Plugin to perform Ajax style downloads",
+    "homepage": "http://gasparesganga.com/labs/jquery-ajax-downloader/",
+    "author": "Gaspare Sganga <contact@gasparesganga.com> (http://gasparesganga.com)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gasparesganga/jquery-ajax-downloader.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gasparesganga/jquery-ajax-downloader/issues"
+    },
+    "keywords": [
+        "ecosystem:jquery",
+        "jquery-plugin",
+        "jquery",
+        "plugin",
+        "ajax",
+        "downloader"
+    ],
+    "dependencies": {
+        "jquery": ">=1.7.0"
+    }
+}

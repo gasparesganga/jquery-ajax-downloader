@@ -1,7 +1,7 @@
 /***************************************************************************************************
 AjaxDownloader - A jQuery Plugin to perform Ajax style downloads
     Author          : Gaspare Sganga
-    Version         : 1.0
+    Version         : 1.1.0
     License         : MIT
     Documentation   : http://gasparesganga.com/labs/jquery-ajax-downloader/
 ****************************************************************************************************/
